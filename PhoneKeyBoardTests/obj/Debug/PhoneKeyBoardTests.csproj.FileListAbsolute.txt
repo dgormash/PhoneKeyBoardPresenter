@@ -1,0 +1,9 @@
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyBoardTests\bin\Debug\PhoneKeyBoardTests.dll
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyBoardTests\bin\Debug\PhoneKeyBoardTests.pdb
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyBoardTests\bin\Debug\nunit.framework.dll
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyBoardTests\bin\Debug\PhoneKeyboardPresenter.exe
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyBoardTests\bin\Debug\PhoneKeyboardPresenter.pdb
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyBoardTests\bin\Debug\nunit.framework.xml
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyBoardTests\obj\Debug\PhoneKeyBoardTests.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyBoardTests\obj\Debug\PhoneKeyBoardTests.dll
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyBoardTests\obj\Debug\PhoneKeyBoardTests.pdb

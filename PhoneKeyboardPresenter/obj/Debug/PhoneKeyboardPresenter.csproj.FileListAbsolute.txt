@@ -1,0 +1,14 @@
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\bin\Debug\PhoneKeyboardPresenter.exe.config
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\bin\Debug\PhoneKeyboardPresenter.exe
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\bin\Debug\PhoneKeyboardPresenter.pdb
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\obj\Debug\PhoneKeyboardPresenter.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\obj\Debug\MainWindow.g.cs
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\obj\Debug\App.g.cs
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\obj\Debug\PhoneKeyboardPresenter_MarkupCompile.cache
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\obj\Debug\PhoneKeyboardPresenter_MarkupCompile.lref
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\obj\Debug\MainWindow.baml
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\obj\Debug\PhoneKeyboardPresenter.g.resources
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\obj\Debug\PhoneKeyboardPresenter.Properties.Resources.resources
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\obj\Debug\PhoneKeyboardPresenter.csproj.GenerateResource.Cache
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\obj\Debug\PhoneKeyboardPresenter.exe
+C:\Users\Roland\Documents\Visual Studio 2015\Projects\wpf\PhoneKeyboardPresenter\PhoneKeyboardPresenter\obj\Debug\PhoneKeyboardPresenter.pdb

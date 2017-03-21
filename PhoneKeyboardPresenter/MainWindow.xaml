@@ -1,0 +1,14 @@
+﻿<Window x:Class="PhoneKeyboardPresenter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhoneKeyboardPresenter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="32" Margin="10,117,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="498"/>
+        <Button x:Name="button" Content="Получить последовательность" HorizontalAlignment="Left" Margin="10,154,0,0" VerticalAlignment="Top" Width="204" Height="30" Click="button_Click"/>
+
+    </Grid>
+</Window>
